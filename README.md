@@ -1,1 +1,1 @@
-# InteligenciaComputacionalTrab1
+Trabalho Computacional da disciplina de Inteligência Computacional
